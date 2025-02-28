@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "replicate": "^1.0.1"
+    "dotenv": "^16.4.7",
+    "replicate": "^1.0.1",
+    "sharp": "^0.33.5"
   },
   "name": "replicate_experiments",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
